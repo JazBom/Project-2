@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "600ba8fbe42703289c257e87"
+  },
+  "name": "Picasso",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "name": "Cezanne",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "name": "Gauguin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "name": "Munch",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "name": "vanGogh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ba9f4e42703289c257e8d"
+  },
+  "name": "Raffaello",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600baa07e42703289c257e8e"
+  },
+  "name": "Michelangelo",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600baa0ee42703289c257e8f"
+  },
+  "name": "daVinci",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600baa1de42703289c257e90"
+  },
+  "name": "Titian",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600baa29e42703289c257e91"
+  },
+  "name": "Boticelli",
+  "__v": 0
+}]

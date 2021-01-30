@@ -1,0 +1,2241 @@
+[{
+  "_id": {
+    "$oid": "600bc0ff3ffcb22a4e03697b"
+  },
+  "title": "Birth of venus",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1280px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+  "year": 1280,
+  "artistNameId": {
+    "$oid": "600baa29e42703289c257e91"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600be8125be53f2bfa4cd8d1"
+  },
+  "title": "Annunciation",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/boticelli/Annunciation_c1481.jpg",
+  "year": 1481,
+  "artistNameId": {
+    "$oid": "600baa29e42703289c257e91"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bf8b64e657a2c1e486e58"
+  },
+  "title": "Madonna_della_loggia",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/boticelli/Madonna_della_loggia_c1466-7.jpg",
+  "year": 1467,
+  "artistNameId": {
+    "$oid": "600baa29e42703289c257e91"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bf8f44e657a2c1e486e59"
+  },
+  "title": "Fortitude",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/boticelli/Fortitude_1470.jpg",
+  "year": 1470,
+  "artistNameId": {
+    "$oid": "600baa29e42703289c257e91"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bf9124e657a2c1e486e5a"
+  },
+  "title": "Madonna_del_Magnificat",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/boticelli/Madonna_del_Magnificat_c1483.jpg",
+  "year": 1483,
+  "artistNameId": {
+    "$oid": "600baa29e42703289c257e91"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bf9484e657a2c1e486e5b"
+  },
+  "title": "Pallas_and_the_Centaur",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/boticelli/Pallas_and_the_Centaur_c1480-5.jpg",
+  "year": 1485,
+  "artistNameId": {
+    "$oid": "600baa29e42703289c257e91"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bf9614e657a2c1e486e5c"
+  },
+  "title": "Primavera_intero",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/boticelli/Primavera_intero_c1480.jpg",
+  "year": 1480,
+  "artistNameId": {
+    "$oid": "600baa29e42703289c257e91"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bf97f4e657a2c1e486e5d"
+  },
+  "title": "Simonetta",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/boticelli/Simonetta_c1485.jpg",
+  "year": 1485,
+  "artistNameId": {
+    "$oid": "600baa29e42703289c257e91"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bf9b94e657a2c1e486e5e"
+  },
+  "title": "Virgin_and_Child_enthroned_with_the_saints_Mary_Magdalene_etc",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/boticelli/Virgin_and_Child_enthroned_with_the_saints_Mary_Magdalene_etc_c1470.jpg",
+  "year": 1470,
+  "artistNameId": {
+    "$oid": "600baa29e42703289c257e91"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfa034e657a2c1e486e5f"
+  },
+  "title": "Adoration_of_the_Magi",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/davinci/Adoration_of_the_Magi_c1482.jpg",
+  "year": 1482,
+  "artistNameId": {
+    "$oid": "600baa0ee42703289c257e8f"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfa224e657a2c1e486e60"
+  },
+  "title": "Annunciation",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/davinci/Annunciation_c1472.jpg",
+  "year": 1472,
+  "artistNameId": {
+    "$oid": "600baa0ee42703289c257e8f"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfa3f4e657a2c1e486e61"
+  },
+  "title": "Lady_with_an_Ermine",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/davinci/Lady_with_an_Ermine_1489-91.jpg",
+  "year": 1491,
+  "artistNameId": {
+    "$oid": "600baa0ee42703289c257e8f"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfab54e657a2c1e486e62"
+  },
+  "title": "Mona_Lisa",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/davinci/Mona_Lisa.jpg",
+  "year": 1519,
+  "artistNameId": {
+    "$oid": "600baa0ee42703289c257e8f"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfacd4e657a2c1e486e63"
+  },
+  "title": "Saint_John_the_Baptist",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/davinci/Saint_John_the_Baptist_1507-16.jpg",
+  "year": 1516,
+  "artistNameId": {
+    "$oid": "600baa0ee42703289c257e8f"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfae94e657a2c1e486e64"
+  },
+  "title": "Salvator_Mundi",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/davinci/Salvator_Mundi_c1500.jpg",
+  "year": 1500,
+  "artistNameId": {
+    "$oid": "600baa0ee42703289c257e8f"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfb104e657a2c1e486e65"
+  },
+  "title": "Studies_of_the_Arm_showing_anatomy",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/davinci/Studies_of_the_Arm_showing_anatomy_c1510.jpg",
+  "year": 1510,
+  "artistNameId": {
+    "$oid": "600baa0ee42703289c257e8f"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfb334e657a2c1e486e66"
+  },
+  "title": "The_Last_Supper",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/davinci/The_Last_Supper_1492-8.jpg",
+  "year": 1498,
+  "artistNameId": {
+    "$oid": "600baa0ee42703289c257e8f"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfb5c4e657a2c1e486e67"
+  },
+  "title": "The_Vetruvian_Man",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/davinci/The_Vetruvian_Man_c1485.jpg",
+  "year": 1485,
+  "artistNameId": {
+    "$oid": "600baa0ee42703289c257e8f"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfb854e657a2c1e486e68"
+  },
+  "title": "Vergine_delle_Rocce",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/davinci/Vergine_delle_Rocce_1483-93.jpg",
+  "year": 1493,
+  "artistNameId": {
+    "$oid": "600baa0ee42703289c257e8f"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfc3a4e657a2c1e486e69"
+  },
+  "title": "David",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/michelangelo/David_1504.jpeg",
+  "year": 1504,
+  "artistNameId": {
+    "$oid": "600baa07e42703289c257e8e"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfc8a4e657a2c1e486e6a"
+  },
+  "title": "Deluge-detail_from_Sistine_Chapel_Ceiling",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/michelangelo/Deluge_-detail_from_Sistene_Chapel_Ceiling-.jpg",
+  "year": 1512,
+  "artistNameId": {
+    "$oid": "600baa07e42703289c257e8e"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfcf34e657a2c1e486e6b"
+  },
+  "title": "Ignudo-Sistine_Chapel_ceiling",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/michelangelo/Ignudo_-Sistene_Chapel_ceiling-_1509.jpg",
+  "year": 1512,
+  "artistNameId": {
+    "$oid": "600baa07e42703289c257e8e"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfd164e657a2c1e486e6c"
+  },
+  "title": "Ignudo_First_Day_of_Creation-detail_from_Sistine_Chapel_Ceiling",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/michelangelo/Ignudo_First_Day_of_Creation_-detail_from_Sistene_Chapel_Ceiling-.jpg",
+  "year": 1512,
+  "artistNameId": {
+    "$oid": "600baa07e42703289c257e8e"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfd354e657a2c1e486e6d"
+  },
+  "title": "Libyan_Sibyl-detail_from_Sistine_Chapel_Ceiling",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/michelangelo/Libyan_Sibyl_-detail_from_Sistene_Chapel_Ceiling-.jpg",
+  "year": 1512,
+  "artistNameId": {
+    "$oid": "600baa07e42703289c257e8e"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfd4d4e657a2c1e486e6e"
+  },
+  "title": "Middle_from_Sistine_Chapel_Ceiling",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/michelangelo/Middle_from_Sistene_Chapel_Ceiling.jpg",
+  "year": 1512,
+  "artistNameId": {
+    "$oid": "600baa07e42703289c257e8e"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfd6a4e657a2c1e486e6f"
+  },
+  "title": "Pieta",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/michelangelo/Pieta_1498-99.jpg",
+  "year": 1499,
+  "artistNameId": {
+    "$oid": "600baa07e42703289c257e8e"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfdea4e657a2c1e486e70"
+  },
+  "title": "Studies_for_The_Libyan_Sibyl_on_Sistine_Chapel_Ceiling",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/michelangelo/Studies_for_The_Libyan_Sibyl.jpg",
+  "year": 1511,
+  "artistNameId": {
+    "$oid": "600baa07e42703289c257e8e"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfe334e657a2c1e486e71"
+  },
+  "title": "The_Creation_of_Adam-Sistine_Chapel_Ceiling",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/michelangelo/The_Creation_of_Adam_1510.jpg",
+  "year": 1512,
+  "artistNameId": {
+    "$oid": "600baa07e42703289c257e8e"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfe764e657a2c1e486e72"
+  },
+  "title": "The_Last_Judgement-Sistine_Chapel",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/michelangelo/The_Creation_of_Adam_1510.jpg",
+  "year": 1541,
+  "artistNameId": {
+    "$oid": "600baa07e42703289c257e8e"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfeaf4e657a2c1e486e73"
+  },
+  "title": "The_Redeemed_detail_from_Last_Judgement-Sistine_Chapel",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/michelangelo/The_Redeemed-detail_from_Sistene_Chapel_Last_Judgement-.jpg",
+  "year": 1541,
+  "artistNameId": {
+    "$oid": "600baa07e42703289c257e8e"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bfedf4e657a2c1e486e74"
+  },
+  "title": "The_Sistine_Chapel_Ceiling",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/michelangelo/The_Sistene_Chapel_Ceiling_1508-12.jpg",
+  "year": 1512,
+  "artistNameId": {
+    "$oid": "600baa07e42703289c257e8e"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c003a4e657a2c1e486e75"
+  },
+  "title": "Angolo_and_Maddalena_Doni",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/raffaello/Angolo_and_Maddalena_Doni_c1504-7.jpg",
+  "year": 1507,
+  "artistNameId": {
+    "$oid": "600ba9f4e42703289c257e8d"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c00554e657a2c1e486e76"
+  },
+  "title": "Elisabetta_Gonzaga_Duchess_of_Urbino",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/raffaello/Elisabetta_Gonzaga_Duchess_of_Urbino_c1502.jpg",
+  "year": 1502,
+  "artistNameId": {
+    "$oid": "600ba9f4e42703289c257e8d"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c00764e657a2c1e486e77"
+  },
+  "title": "Ezekiels_vision",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/raffaello/Ezekiels_vision_c1517-8.jpg",
+  "year": 1518,
+  "artistNameId": {
+    "$oid": "600ba9f4e42703289c257e8d"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c008f4e657a2c1e486e78"
+  },
+  "title": "Madonna_del_Granduca",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/raffaello/Madonna_del_Granduca_c1506-7.jpg",
+  "year": 1507,
+  "artistNameId": {
+    "$oid": "600ba9f4e42703289c257e8d"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c00b74e657a2c1e486e79"
+  },
+  "title": "Madonna_of_the_Goldfinch",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/raffaello/Madonna_of_the_Goldfinch_beforeFeb1506.jpg",
+  "year": 1506,
+  "artistNameId": {
+    "$oid": "600ba9f4e42703289c257e8d"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c00d64e657a2c1e486e7a"
+  },
+  "title": "Tommaso_Inghirami",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/raffaello/Tommaso_Inghirami_1510-11.jpg",
+  "year": 1511,
+  "artistNameId": {
+    "$oid": "600ba9f4e42703289c257e8d"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c00f84e657a2c1e486e7b"
+  },
+  "title": "Self_portrait",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/raffaello/self_portrait_1506.jpg",
+  "year": 1506,
+  "artistNameId": {
+    "$oid": "600ba9f4e42703289c257e8d"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c013c4e657a2c1e486e7c"
+  },
+  "title": "Bacchus_and_Ariadne",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/titian/Bacchus_and_Ariadne.jpg",
+  "year": 1523,
+  "artistNameId": {
+    "$oid": "600baa1de42703289c257e90"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c015c4e657a2c1e486e7d"
+  },
+  "title": "Eleonora_Gonzaga",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/titian/Eleonora_Gonzaga_c1537.jpg",
+  "year": 1537,
+  "artistNameId": {
+    "$oid": "600baa1de42703289c257e90"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c01764e657a2c1e486e7e"
+  },
+  "title": "Flora",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/titian/Flora_c1517.jpg",
+  "year": 1517,
+  "artistNameId": {
+    "$oid": "600baa1de42703289c257e90"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c019b4e657a2c1e486e7f"
+  },
+  "title": "La_bella",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/titian/La_bella_1536-8.jpg",
+  "year": 1538,
+  "artistNameId": {
+    "$oid": "600baa1de42703289c257e90"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c01b44e657a2c1e486e80"
+  },
+  "title": "Pietro_aretino",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/titian/Pietro_aretino_1545.jpg",
+  "year": 1545,
+  "artistNameId": {
+    "$oid": "600baa1de42703289c257e90"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c01de4e657a2c1e486e81"
+  },
+  "title": "The_Penitent_Magdalena",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/titian/The_Penitent_Magdalena_1531-5.png",
+  "year": 1535,
+  "artistNameId": {
+    "$oid": "600baa1de42703289c257e90"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c01f94e657a2c1e486e82"
+  },
+  "title": "Venus_of_Urbino",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/titian/Venus_of_Urbino_1538.jpg",
+  "year": 1538,
+  "artistNameId": {
+    "$oid": "600baa1de42703289c257e90"
+  },
+  "artCategoryId": {
+    "$oid": "600ba306e42703289c257e85"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c026d4e657a2c1e486e83"
+  },
+  "title": "A_Modern_Olympia",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/A_Modern_Olympia_c1873-4.jpg",
+  "year": 1874,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c02924e657a2c1e486e84"
+  },
+  "title": "Ambroise_Vollard",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Ambroise_Vollard_1899.jpg",
+  "year": 1899,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c02c64e657a2c1e486e85"
+  },
+  "title": "Château_Noir",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Château_Noir_1900-04.jpg",
+  "year": 1904,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c02e54e657a2c1e486e86"
+  },
+  "title": "Cruchon_et_Compotier",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Cruchon_et_Compotier_1893-4.jpg",
+  "year": 1894,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c03084e657a2c1e486e87"
+  },
+  "title": "Harlequin",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Harlequin_1888-90.jpg",
+  "year": 1890,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c033a4e657a2c1e486e88"
+  },
+  "title": "Houses_in_Provence_Riaux_Valley_L'Estaque",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Houses_in_Provence_Riaux_Valley_LEstaque_1883.jpg",
+  "year": 1883,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c03584e657a2c1e486e89"
+  },
+  "title": "Jas_de_Bouffan",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Jas_de_Bouffan_1876.jpg",
+  "year": 1876,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c03754e657a2c1e486e8a"
+  },
+  "title": "L'Estaque",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/LEstaque_1883-5.jpg",
+  "year": 1885,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c038f4e657a2c1e486e8b"
+  },
+  "title": "La_Maison_du_pendu",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/La_Maison_du_pendu_1873.jpg",
+  "year": 1873,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c03ab4e657a2c1e486e8c"
+  },
+  "title": "La_Pendule_noire",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/La_Pendule_noire_1869-71.jpg",
+  "year": 1871,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c03c94e657a2c1e486e8d"
+  },
+  "title": "La_Route_tournante_en_sous-bois",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/La_Route_tournante_en_sous-bois_1873-5.jpg",
+  "year": 1875,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c03eb4e657a2c1e486e8e"
+  },
+  "title": "Lac_d'Annecy",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Lac_dAnnecy_1896.jpg",
+  "year": 1896,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c04054e657a2c1e486e8f"
+  },
+  "title": "Le_Garçon_au_gilet_rouge",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Le_Garçon_au_gilet_rouge_1888-90.jpg",
+  "year": 1890,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c04484e657a2c1e486e90"
+  },
+  "title": "Le_fils_de_l'artiste",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Le_fils_de_lartiste_Paul_par_Paul_Cezanne_1888-90.jpg",
+  "year": 1890,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c04624e657a2c1e486e91"
+  },
+  "title": "Le_panier_de_pommes",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Le_panier_de_pommes_1890-4.jpg",
+  "year": 1894,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c047d4e657a2c1e486e92"
+  },
+  "title": "Les_Joueurs_de_cartes",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Les_Joueurs_de_cartes_1892-3.jpg",
+  "year": 1893,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c049a4e657a2c1e486e93"
+  },
+  "title": "Les_joueurs_de_carte",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Les_joueurs_de_carte_1892-5.jpg",
+  "year": 1895,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c04ba4e657a2c1e486e94"
+  },
+  "title": "Madame_Cezanne",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Madame_Cezanne_c1888-90.jpg",
+  "year": 1890,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c04de4e657a2c1e486e95"
+  },
+  "title": "Maison_Maria_with_a_View_of_Château_Noir",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Maison_Maria_with_a_View_of_Château_Noir_1895.jpg",
+  "year": 1895,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c04fc4e657a2c1e486e96"
+  },
+  "title": "Maison_et_ferme_du_Jas_de_Bouffan",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Maison_et_ferme_du_Jas_de_Bouffan_1885-7.jpg",
+  "year": 1887,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c051a4e657a2c1e486e97"
+  },
+  "title": "Mardi_gras-Pierrot_et_Arlequin",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Mardi_gras_-Pierrot_et_Arlequin-_1888.jpg",
+  "year": 1888,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c053e4e657a2c1e486e98"
+  },
+  "title": "Mont_Sainte-Victoire_River_Valley",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Mont_Sainte-Victoire_River_Valley_1882-5.jpg",
+  "year": 1885,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c05744e657a2c1e486e99"
+  },
+  "title": "Mont_Sainte-Victoire_and_Château_Noir",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Mont_Sainte-Victoire_and_Château_Noir_1904-5.jpg",
+  "year": 1905,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c05914e657a2c1e486e9a"
+  },
+  "title": "Mont_Sainte-Victoire_with_Large_Pine",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Mont_Sainte-Victoire_with_Large_Pine_1887.jpg",
+  "year": 1887,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c05b24e657a2c1e486e9b"
+  },
+  "title": "Nature_morte_au_Chérubin",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Nature_morte_au_Chérubin_1895.jpg",
+  "year": 1895,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c05e64e657a2c1e486e9c"
+  },
+  "title": "Paul_Cézanne_Self_Portrait",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Paul_Cézanne_Self_Portrait_1895.jpg",
+  "year": 1895,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c06084e657a2c1e486e9d"
+  },
+  "title": "Portrait_de_Madame_Cézanne",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Portrait_de_Madame_Cézanne_1885-6.jpg",
+  "year": 1886,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c06254e657a2c1e486e9e"
+  },
+  "title": "Portrait_de_Victor_Chocquet",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Portrait_de_Victor_Chocquet_1876-77.jpg",
+  "year": 1877,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c06454e657a2c1e486e9f"
+  },
+  "title": "Portrait_of_Madame_Cézanne",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Portrait_of_Madame_Cézanne_1890-2.jpg",
+  "year": 1892,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c065f4e657a2c1e486ea0"
+  },
+  "title": "Self-portrait",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Self-portrait_1880-1.jpg",
+  "year": 1881,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c067c4e657a2c1e486ea1"
+  },
+  "title": "Still_Life_with_a_Curtain",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Still_Life_with_a_Curtain_1920.jpg",
+  "year": 1920,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c069e4e657a2c1e486ea2"
+  },
+  "title": "Still_life_with_kettle",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Still_life_with_kettle_1867-9.jpg",
+  "year": 1869,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c06c14e657a2c1e486ea3"
+  },
+  "title": "The_Bathers",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/The_Bathers_1898-1905.jpg",
+  "year": 1905,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c06f44e657a2c1e486ea4"
+  },
+  "title": "The_Bay_of_Marseilles_Seen_from_L'Estaque",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/The_Bay_of_Marseilles_Seen_from_LEstaque_1885.jpg",
+  "year": 1885,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c071e4e657a2c1e486ea5"
+  },
+  "title": "The_House_with_the_Cracked_Walls",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/The_House_with_the_Cracked_Walls_1892-4.jpg",
+  "year": 1894,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c07414e657a2c1e486ea6"
+  },
+  "title": "The_Large_Bathers",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/The_Large_Bathers_1898-1905.jpg",
+  "year": 1905,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c075d4e657a2c1e486ea7"
+  },
+  "title": "The_Neighborhood_of_Jas_de_Bouffan",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/The_Neighborhood_of_Jas_de_Bouffan_1885-7.jpg",
+  "year": 1887,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c07784e657a2c1e486ea8"
+  },
+  "title": "Woman_in_a_Green_Hat",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Woman_in_a_Green_Hat_1894-5.jpg",
+  "year": 1895,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c07904e657a2c1e486ea9"
+  },
+  "title": "Woman_with_a_Coffeepot",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/Woman_with_a_Coffeepot_1895.jpg",
+  "year": 1895,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c07ca4e657a2c1e486eaa"
+  },
+  "title": "Jourdans_cottage",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/cezanne/jourdans-cottage.jpg",
+  "year": 1906,
+  "artistNameId": {
+    "$oid": "600ba90fe42703289c257e88"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c08024e657a2c1e486eab"
+  },
+  "title": "Among_the_Mangoes",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Among_the_Mangoes_1887.jpg",
+  "year": 1887,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c081e4e657a2c1e486eac"
+  },
+  "title": "Annah_the_Javanese",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Annah_the_Javanese_1893.jpg",
+  "year": 1893,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c083a4e657a2c1e486ead"
+  },
+  "title": "Bord_de_Mer_II",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Bord_de_Mer_II_1887.jpg",
+  "year": 1887,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c08564e657a2c1e486eae"
+  },
+  "title": "Breton_Bather",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Breton_Bather_1886-7.jpg",
+  "year": 1887,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c08714e657a2c1e486eaf"
+  },
+  "title": "Christ_and_the_Garden_of_Olives",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Christ_and_the_Garden_of_Olives_1889.jpg",
+  "year": 1889,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c088e4e657a2c1e486eb0"
+  },
+  "title": "Conversation_Tropiques",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Conversation_Tropiques_1887.jpg",
+  "year": 1887,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c08a74e657a2c1e486eb1"
+  },
+  "title": "Deux_Tahitiennes",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Deux_Tahitiennes_1899.jpg",
+  "year": 1899,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c08c44e657a2c1e486eb2"
+  },
+  "title": "Four_Breton_Women",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Four_Breton_Women_1886.jpg",
+  "year": 1886,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c08f44e657a2c1e486eb3"
+  },
+  "title": "Girl_with_flower",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Girl_with_flower.jpg",
+  "year": 1891,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c091e4e657a2c1e486eb4"
+  },
+  "title": "Huttes_sous_les_arbres",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Huttes_sous_les_arbres_1887.jpg",
+  "year": 1887,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c093e4e657a2c1e486eb5"
+  },
+  "title": "Jeune_fille_a_leventail",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Jeune_fille_a_leventail_1902.jpg",
+  "year": 1902,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c097a4e657a2c1e486eb7"
+  },
+  "title": "Landscape_with_a_Pig_and_a_Horse",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Landscape_with_a_Pig_and_a_Horse_1903.jpg",
+  "year": 1903,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c09974e657a2c1e486eb8"
+  },
+  "title": "Le_Sorcier_dHiva_Oa",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Le_Sorcier_dHiva_Oa-1902.jpg",
+  "year": 1902,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c09b74e657a2c1e486eb9"
+  },
+  "title": "Les_Alyscamps",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Les_Alyscamps_1888.jpg",
+  "year": 1888,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0a0c4e657a2c1e486eba"
+  },
+  "title": "Manao_tupapau-The_Spirit_of_the_Dead_Keep_Watch",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Manao_tupapau_-The_Spirit_of_the_Dead_Keep_Watch-_1892.jpeg",
+  "year": 1892,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0a574e657a2c1e486ebb"
+  },
+  "title": "The-Moon_and_the_Earth-Hina_tefatou",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/The-Moon_and_the_Earth_-Hina_tefatou-_1893.jpg",
+  "year": 1893,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0a814e657a2c1e486ebc"
+  },
+  "title": "The_Yellow_Christ",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/The_Yellow_Christ_1889.jpg",
+  "year": 1889,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0a9e4e657a2c1e486ebd"
+  },
+  "title": "Vincent_van_Gogh_painting_sunflowers",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Vincent_van_Gogh_painting_sunflowers_1888.jpg",
+  "year": 1888,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0ac44e657a2c1e486ebe"
+  },
+  "title": "Where_do_we_come_from_What_are_we_Where_are_we_going-Nafea_Faa_Ipoipo",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/When_will_you_marry_-Nafea_Faa_Ipoipo-__1892.jpg",
+  "year": 1892,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0ae44e657a2c1e486ebf"
+  },
+  "title": "Women_Bathing",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/gauguin/Women_Bathing_1885.jpg",
+  "year": 1885,
+  "artistNameId": {
+    "$oid": "600ba922e42703289c257e89"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0da14e657a2c1e486ec0"
+  },
+  "title": "Aase_and_Harald_Nørregaard",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Aase_and_Harald_Nørregaard_1899.jpeg",
+  "year": 1899,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0dbc4e657a2c1e486ec1"
+  },
+  "title": "Anxiety",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Anxiety_1894.jpg",
+  "year": 1894,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0ddf4e657a2c1e486ec2"
+  },
+  "title": "Ashes",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Ashes_1895.jpg",
+  "year": 1895,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0e094e657a2c1e486ec3"
+  },
+  "title": "Bathing_Men-Atene",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Bathing_Men_-Ateneum-_1907-8.jpg",
+  "year": 1908,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0e374e657a2c1e486ec4"
+  },
+  "title": "Between_the_clock_and_the_bed",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Between_the_clock_and_the_bed.jpeg",
+  "year": 1943,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0e5b4e657a2c1e486ec5"
+  },
+  "title": "Death_of_Marat",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Death-of_Marat_1907.jpeg",
+  "year": 1907,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0e7e4e657a2c1e486ec6"
+  },
+  "title": "Death_in_the_Sickroom",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Death_in_the_Sickroom_1893.jpg",
+  "year": 1893,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0ea54e657a2c1e486ec7"
+  },
+  "title": "Four_Girls_in_Åsgårdstrand",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Four_Girls_in_Åsgårdstrand_1903.jpg",
+  "year": 1903,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0ebd4e657a2c1e486ec8"
+  },
+  "title": "Friederich_Nietzsche",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Friederich_Nietzsche_1906.jpg",
+  "year": 1906,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0ed64e657a2c1e486ec9"
+  },
+  "title": "Golgotha",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Golgotha_1900.jpg",
+  "year": 1900,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0eee4e657a2c1e486eca"
+  },
+  "title": "Jealousy",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Jealousy_1907.jpg",
+  "year": 1907,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0f0c4e657a2c1e486ecb"
+  },
+  "title": "Kiss_by_the_window",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Kiss_by_the_window_1892.jpg",
+  "year": 1892,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0f254e657a2c1e486ecc"
+  },
+  "title": "Lady_from_the_sea",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Lady_from_the_sea_1896.jpg",
+  "year": 1896,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0f9f4e657a2c1e486ecd"
+  },
+  "title": "Madonna",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Madonna_.jpg",
+  "year": 1894,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0fbd4e657a2c1e486ece"
+  },
+  "title": "Metabolism",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Metabolism_1898-9.jpg",
+  "year": 1899,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c0ff34e657a2c1e486ecf"
+  },
+  "title": "Puberty",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Puberty_1894-5.jpg",
+  "year": 1895,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c10154e657a2c1e486ed0"
+  },
+  "title": "Shore_with_Red_House",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Shore_with_Red_House_1904.jpg",
+  "year": 1904,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c10364e657a2c1e486ed1"
+  },
+  "title": "Starry_Night",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Starry_Night_1893.jpeg",
+  "year": 1893,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c10524e657a2c1e486ed2"
+  },
+  "title": "Starry_Night",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/Starry_Night_1922-24.jpg",
+  "year": 1924,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c10784e657a2c1e486ed3"
+  },
+  "title": "The_Kiss",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/The_Kiss_1897.jpg",
+  "year": 1897,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c10954e657a2c1e486ed4"
+  },
+  "title": "The_Scream",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/The_Scream_1893.jpg",
+  "year": 1893,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c10af4e657a2c1e486ed5"
+  },
+  "title": "The_Voice_Summer_Night",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/The_Voice_Summer_Night_1896.jpg",
+  "year": 1896,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c10c94e657a2c1e486ed6"
+  },
+  "title": "The_dance_of_life",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/munch/The_dance_of_life_1899-1900.jpg",
+  "year": 1900,
+  "artistNameId": {
+    "$oid": "600ba94ae42703289c257e8a"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c175f4e657a2c1e486ed7"
+  },
+  "title": "Girl_with_a_Mandolin",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/picasso/Girl_with_a_Mandolin_1910.jpg",
+  "year": 1910,
+  "artistNameId": {
+    "$oid": "600ba8fbe42703289c257e87"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c17784e657a2c1e486ed8"
+  },
+  "title": "Guitar",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/picasso/Guitar_1924.jpg",
+  "year": 1924,
+  "artistNameId": {
+    "$oid": "600ba8fbe42703289c257e87"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c17934e657a2c1e486ed9"
+  },
+  "title": "Les_Demoiselles_dAvignon",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/picasso/Les_Demoiselles_dAvignon_1907.jpg",
+  "year": 1907,
+  "artistNameId": {
+    "$oid": "600ba8fbe42703289c257e87"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c17ac4e657a2c1e486eda"
+  },
+  "title": "Les_Femmes_dAlger",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/picasso/Les_Femmes_dAlger_1955.jpeg",
+  "year": 1955,
+  "artistNameId": {
+    "$oid": "600ba8fbe42703289c257e87"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c17c94e657a2c1e486edb"
+  },
+  "title": "Nude_Woman_in_a_Red_Armchair",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/picasso/Nude_Woman_in_a_Red_Armchair_1932.jpg",
+  "year": 1932,
+  "artistNameId": {
+    "$oid": "600ba8fbe42703289c257e87"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c17e54e657a2c1e486edc"
+  },
+  "title": "Sleeping_Peasants",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/picasso/Sleeping_Peasants_1919.jpg",
+  "year": 1919,
+  "artistNameId": {
+    "$oid": "600ba8fbe42703289c257e87"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c18044e657a2c1e486edd"
+  },
+  "title": "La_Lecture",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/picasso/La_Lecture_1932.jpg",
+  "year": 1932,
+  "artistNameId": {
+    "$oid": "600ba8fbe42703289c257e87"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c181d4e657a2c1e486ede"
+  },
+  "title": "The_Old_Guitarist",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/picasso/The_Old_Guitarist_1903-4.jpg",
+  "year": 1904,
+  "artistNameId": {
+    "$oid": "600ba8fbe42703289c257e87"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c18344e657a2c1e486edf"
+  },
+  "title": "The_Three_Dancers",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/picasso/The_Three_Dancers_1925.jpg",
+  "year": 1925,
+  "artistNameId": {
+    "$oid": "600ba8fbe42703289c257e87"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c184b4e657a2c1e486ee0"
+  },
+  "title": "Three_musicians",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/picasso/Three_musicians_1921.jpg",
+  "year": 1921,
+  "artistNameId": {
+    "$oid": "600ba8fbe42703289c257e87"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c18634e657a2c1e486ee1"
+  },
+  "title": "Weeping_Woman",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/picasso/Weeping_Woman_1937.jpg",
+  "year": 1937,
+  "artistNameId": {
+    "$oid": "600ba8fbe42703289c257e87"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c19334e657a2c1e486ee2"
+  },
+  "title": "Wheatfield_with_crows",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Wheatfield_with_crows_1890.jpg",
+  "year": 1890,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c194f4e657a2c1e486ee3"
+  },
+  "title": "Wheat_Field_with_Cypresses",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Wheat_Field_with_Cypresses_1889.jpg",
+  "year": 1889,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c19714e657a2c1e486ee4"
+  },
+  "title": "View_of_Arles_Flowering_Orchards",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/View_of_Arles_Flowering_Orchards_1889.jpg",
+  "year": 1889,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c19934e657a2c1e486ee5"
+  },
+  "title": "The_yellow_house_The_street",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/The_yellow_house_-The_street-_1888.jpg",
+  "year": 1888,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c19ad4e657a2c1e486ee6"
+  },
+  "title": "The_Sower",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/The_Sower_1888.jpg",
+  "year": 1888,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c19c64e657a2c1e486ee7"
+  },
+  "title": "Sunflowers",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Sunflowers_1889.jpg",
+  "year": 1889,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c19e44e657a2c1e486ee8"
+  },
+  "title": "Still_Life-Vase_with_Twelve_Sunflowers",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Still_Life-Vase_with_Twelve_Sunflowers_1888.jpg",
+  "year": 1888,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c19fd4e657a2c1e486ee9"
+  },
+  "title": "Still_Life-Vase_with_Irises_Against_a_Yellow_Background",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Still_Life-Vase_with_Irises_Against_a_Yellow_Background_1890.jpg",
+  "year": 1890,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c1a194e657a2c1e486eea"
+  },
+  "title": "Still_Life-Vase_with_Fourteen_Sunflowers",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Still_Life-Vase_with_Fourteen_Sunflowers_1888.jpg",
+  "year": 1888,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c1a2f4e657a2c1e486eeb"
+  },
+  "title": "Still_Life-Pink_Roses_in_a_Vase",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Still_Life-Pink_Roses_in_a_Vase_1890.jpg",
+  "year": 1890,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c1a444e657a2c1e486eec"
+  },
+  "title": "Starry_Night_over_the_Rhone",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Starry_Night_over_the_Rhone_1888.jpg",
+  "year": 1888,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c1a5c4e657a2c1e486eed"
+  },
+  "title": "Starry_Night",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Starry_Night_-1889.jpg",
+  "year": 1889,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c1a8b4e657a2c1e486eee"
+  },
+  "title": "Self-portrait_with_bandaged_ear_and_pipe",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Selfportrait-with_bandaged_ear_and_pipe_1889.jpg",
+  "year": 1889,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c1aab4e657a2c1e486eef"
+  },
+  "title": "Self-portrait_with_grey_felt_hat",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Self-portrait_with_grey_felt_hat_1887-8.jpg",
+  "year": 1888,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c1ac54e657a2c1e486ef0"
+  },
+  "title": "Self-portrait_with_bandaged_ear",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Self-portrait_with_bandaged_ear_1889.jpg",
+  "year": 1889,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c1ae74e657a2c1e486ef1"
+  },
+  "title": "Self-Portrait_with_Straw_Hat",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Self-Portrait_with_Straw_Hat_1887.jpg",
+  "year": 1887,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c1afa4e657a2c1e486ef2"
+  },
+  "title": "Self-Portrait",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Self-Portrait_1889.jpg",
+  "year": 1889,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c1b0c4e657a2c1e486ef3"
+  },
+  "title": "Self-Portrait",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Self-Portrait_1887.jpg",
+  "year": 1887,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c1b6d4e657a2c1e486ef4"
+  },
+  "title": "Self-Portrait",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Self-Portrait_.jpg",
+  "year": 1889,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c1b8f4e657a2c1e486ef5"
+  },
+  "title": "Portret_van_de_postbode_Joseph_Roulin",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Portret_van_de_postbode_Joseph_Roulin_1888.jpg",
+  "year": 1888,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600c1ba74e657a2c1e486ef6"
+  },
+  "title": "Portrait_of_Pere_Tanguy",
+  "imageUrl": "https://s3.ap-southeast-2.amazonaws.com/ga-2020-game-artist-artworks/vangogh/Portrait_of_Pere_Tanguy_1887-8.jpeg",
+  "year": 1888,
+  "artistNameId": {
+    "$oid": "600ba95de42703289c257e8b"
+  },
+  "artCategoryId": {
+    "$oid": "600bab53e42703289c257e94"
+  },
+  "__v": 0
+}]
